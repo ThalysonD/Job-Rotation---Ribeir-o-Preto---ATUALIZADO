@@ -1,0 +1,6 @@
+3- a) A lógica é adicionar 2 ao número anterior, então o próximo elemento seria 9.
+   b) A lógica é multiplicar cada número anterior por 2, então o próximo elemento seria 128.
+   c) A lógica é adicionar 1 ao quadrado do número anterior, então o próximo elemento seria 49. 
+   d) A lógica é adicionar 12 ao número anterior (o primeiro é 2², o segundo é 4², o terceiro é 6², o quarto é 8²), então o próximo elemento seria 100.
+   e) A lógica é adicionar os dois números anteriores para obter o próximo, então o próximo elemento seria 13.
+   f) Não há uma lógica clara para esta sequência, pois não segue uma progressão matemática óbvia. 
