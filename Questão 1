@@ -1,0 +1,4 @@
+A variável K começa em 0 e é incrementada em 1 a cada iteração do laço, enquanto for menor do que INDICE (13). Na primeira iteração, K será igual a 1 e SOMA 
+será igual a 1, na segunda iteração K será igual a 2 e SOMA será igual a 3, e assim por diante até a 13ª iteração, onde K será igual a 13 e SOMA será igual a 91.
+
+Portanto, ao final do processamento, o valor da variável SOMA será 91.
